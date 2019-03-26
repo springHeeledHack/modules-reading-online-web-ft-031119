@@ -14,7 +14,7 @@ module FancyDance
     end
     
     def take_a_bow
-      "Thank you, thank you. IT was a peleasure to dance for you all."
+      "Thank you, thank you. It was a peleasure to dance for you all."
     end
   end
   
